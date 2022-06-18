@@ -1,0 +1,13 @@
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Repository.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Repository.pdb
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Data.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Entity.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Framework.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Data.pdb
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Entity.pdb
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\bin\Debug\InventoryMSystem.Framework.pdb
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\obj\Debug\InventoryMSystem.Repository.csprojAssemblyReference.cache
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\obj\Debug\InventoryMSystem.Repository.csproj.CoreCompileInputs.cache
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\obj\Debug\InventoryMSystem.Repository.csproj.CopyComplete
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\obj\Debug\InventoryMSystem.Repository.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Repository\obj\Debug\InventoryMSystem.Repository.pdb

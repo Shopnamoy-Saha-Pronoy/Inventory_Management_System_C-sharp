@@ -1,0 +1,5 @@
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Framework\bin\Debug\InventoryMSystem.Framework.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Framework\bin\Debug\InventoryMSystem.Framework.pdb
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Framework\obj\Debug\InventoryMSystem.Framework.csproj.CoreCompileInputs.cache
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Framework\obj\Debug\InventoryMSystem.Framework.dll
+F:\Class\OOP-2  [G]\FinalProject\InventoryMSystem\InventoryMSystem.Framework\obj\Debug\InventoryMSystem.Framework.pdb
